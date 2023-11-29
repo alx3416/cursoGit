@@ -17,5 +17,5 @@ def getcircleArea(radius):
 
 
 def getcirclePerimeter(radius):
-    perimeter = math.pi * (radius * 3)
+    perimeter = math.pi * (radius * 2)
     return perimeter
