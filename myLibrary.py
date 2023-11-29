@@ -1,8 +1,8 @@
 import math
 
 
-def getHypotenuse(sideA, sideB):
-    hypotenuse = math.sqrt((sideA ** 2) + (sideB ** 2))
+def getHypotenuse(side1, side2):
+    hypotenuse = math.sqrt((side1 ** 2) + (side2 ** 2))
     return hypotenuse
 
 
