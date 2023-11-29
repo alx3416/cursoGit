@@ -13,7 +13,7 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharm')
-    hypotenuse = myLib.getHypotenuse(3, 4)
+    hypotenuse = myLib.getHypotenuse(4, 3)
     print("The hypotenuse from a triangle with sides 3 and 4 is: ", hypotenuse)
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
