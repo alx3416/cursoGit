@@ -14,3 +14,8 @@ def getRectangleArea(sideA, sideB):
 def getcircleArea(radius):
     area = math.pi * (radius ** 2)
     return area
+
+
+def getcirclePerimeter(radius):
+    perimeter = math.pi * (radius * 2)
+    return perimeter
